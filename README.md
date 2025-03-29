@@ -1,6 +1,18 @@
 # deep-learning-nueral-networks
 
-### Files
+### Solved Files
+
+[Starter_Code](https://github.com/BryanCarney/deep-learning-nueral-networks/blob/main/Starter_Code.ipynb)
+
+[Starter_Code_Optimized](https://github.com/BryanCarney/deep-learning-nueral-networks/blob/main/Starter_Code_Optimized.ipynb)
+
+### Output Files
+
+[AlphabetSoupCharity](https://github.com/BryanCarney/deep-learning-nueral-networks/blob/main/AlphabetSoupCharity.h5)
+
+[AlphabetSoupCharity_Optimization](https://github.com/BryanCarney/deep-learning-nueral-networks/blob/main/AlphabetSoupCharity_Optimization.h5)
+
+### Original Files
 
 [Module 21 Challenge files](https://static.bc-edx.com/data/dl-1-2/m21/lms/starter/Starter_Code.zip)
 
